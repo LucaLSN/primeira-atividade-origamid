@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0%;
+}
+h1 {
+  text-align: center;
+}
+.carro {
+  background-color: #000;
+  margin: 20px;
+  padding: 20px;
+  color: #b2b2b2;
+  border-radius: 4px;
+}
+.bicicleta {
+  background-color: #000;
+  margin: 20px;
+  padding: 20px;
+  color: #b2b2b2;
+
+  border-radius: 4px;
+}
+span {
+  color: #febe01;
+}
+button {
+  padding: 10px;
+  color: #332200;
+  background-color: #febe01;
+  transition: 0.2s;
+  border-radius: 4px;
+}
+button:hover {
+  background: #332200;
+  color: #fff;
+  cursor: pointer;
+}
